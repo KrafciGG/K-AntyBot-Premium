@@ -1,0 +1,6 @@
+name: KrafciG-AntyBot
+version: 0.2
+author: KrafciG
+main: net.krafcig.antybot.Main
+commands:
+    configreload:
